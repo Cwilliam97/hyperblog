@@ -5,3 +5,5 @@ Willicam caicedo nacio en Argelia-Cauca
 Estudia en la universidad del cauca
 
 Actualemte se encuentra estudiando curso de git
+
+Se encuentra en el apartado de aprendiendo GitHub
